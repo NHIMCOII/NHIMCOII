@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src="Duy Anh.gif">
 <h1 align="center">Hi 👋, I'm Duy Anh</h1>
 <h3 align="center">A passionate student from Vietnam</h3>
 <img align="right" alt="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
