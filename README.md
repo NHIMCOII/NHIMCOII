@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhimcoii&label=Profile%20views&color=0e75b6&style=flat" alt="nhimcoii" /> </p>
 
-- 🔭 I’m currently working on [Financial_Management_System](https://github.com/NHIMCOII/PipGo-Server)
+- 🔭 I’m currently working on [PipGo-Server](https://github.com/NHIMCOII/PipGo-Server)
 
 - 🌱 I’m currently an IT student of **Hanoi University of Science and Technology**
 
